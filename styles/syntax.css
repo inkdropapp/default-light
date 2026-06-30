@@ -1,0 +1,7 @@
+@layer theme.syntax {
+  /*
+   * Default Light theme for Inkdrop — editor syntax.
+   * Override `--editor-*` / `--syntax-*` variables (in `@layer theme.syntax`).
+   * https://github.com/inkdropapp/css/blob/main/syntax.css
+   */
+}

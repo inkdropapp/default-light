@@ -1,0 +1,7 @@
+@layer theme.preview {
+  /*
+   * Default Light theme for Inkdrop — Markdown preview.
+   * Override `--mde-preview-*` variables (in `@layer theme.preview`).
+   * https://github.com/inkdropapp/css/blob/main/markdown.css
+   */
+}

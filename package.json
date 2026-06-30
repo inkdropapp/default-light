@@ -1,10 +1,13 @@
 {
-  "name": "default-light-ui",
+  "name": "default-light",
   "version": "3.0.0",
-  "theme": "ui",
-  "description": "Default Light UI Theme for Inkdrop",
+  "theme": true,
+  "themeAppearance": "light",
+  "description": "Default Light theme for Inkdrop",
   "styleSheets": [
-    "theme.css"
+    "ui.css",
+    "syntax.css",
+    "preview.css"
   ],
   "scripts": {
     "prepublishOnly": "./node_modules/.bin/generate-palette"
@@ -15,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inkdropapp/defualt-light-ui.git"
+    "url": "git+https://github.com/inkdropapp/default-light.git"
   },
   "author": "Takuya Matsuyama<t@inkdrop.app>",
   "license": "MIT",

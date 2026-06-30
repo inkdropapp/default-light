@@ -1,0 +1,15 @@
+@layer theme.ui {
+  /*
+   * Default Light theme for Inkdrop — UI
+   *
+   * Builds on the base UI theme (@inkdropapp/css), which declares all of
+   * Inkdrop's UI design tokens as CSS custom properties. Override any of those
+   * variables here (wrapped in `@layer theme.ui`) to re-theme the app chrome —
+   * no rebuild required.
+   *
+   *   https://github.com/inkdropapp/css/blob/main/ui.css
+   *
+   * See the theming guide:
+   * https://developers.inkdrop.app/guides/create-a-theme
+   */
+}
