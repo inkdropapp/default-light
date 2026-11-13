@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has moved to [inkdropapp/plugins](https://github.com/inkdropapp/plugins): [`packages/default-light`](https://github.com/inkdropapp/plugins/tree/main/packages/default-light). It is archived and read-only; please open issues and pull requests there.
+
 # Default Light Theme for Inkdrop
 
 > [!NOTE]
